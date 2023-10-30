@@ -22,7 +22,7 @@
   Screenshots and a video demonstration of the incomplete application are below. There's also a copy of the full video in Images.
    ![Screenshot of application](./images/ApplicationScreenshot.png)
    ![GIF demo](./images/ApplicationGIF.gif) <br>
-   [Link to Video demonstration on Google Drive] (https://drive.google.com/file/d/1_idF58HG0lznjjPWP6ctciCGJawhth9a/view)
+    [Link to Video demonstration on Google Drive] (https://drive.google.com/file/d/1_idF58HG0lznjjPWP6ctciCGJawhth9a/view)
 
   ## Licenses
   This project is covered under the MIT license.
